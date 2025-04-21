@@ -2,7 +2,6 @@ cmake_minimum_required(VERSION 3.30)
 
 project(Cpp VERSION 0.1 LANGUAGES CXX)
 
-find_package(fmt CONFIG REQUIRED)
 find_package(loguru CONFIG REQUIRED)
 
 # Add subdirectories
