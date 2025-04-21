@@ -9,6 +9,9 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 # Enable compile_commands.json
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
+find_package(fmt CONFIG REQUIRED)
+find_package(loguru CONFIG REQUIRED)
+
 # Add subdirectories
 add_subdirectory(apps/cpp_for_c_programmers)
 add_subdirectory(apps/playground)
