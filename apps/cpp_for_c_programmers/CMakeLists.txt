@@ -1,1 +1,2 @@
 add_executable(cpp_for_c_programmers cpp_for_c_programmers.cc)
+add_executable(cpp_for_c_programmers_homework2 cpp_for_c_programmers_homework2.cc)
