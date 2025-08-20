@@ -1,3 +1,3 @@
 # CPP
 
-A collection of C++ applications and libraries created for educational and development purposes.
+A collection of C++ applications and libraries developed for educational purposes.
